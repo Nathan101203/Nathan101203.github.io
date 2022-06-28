@@ -5,4 +5,4 @@
 
 # Tutorial
 - Marvel at its beauty
-    ![Tux, the Linux mascot](/evrardn/Documents/image-attractive-960x540.jpg)
+    ![Petite image d'essai](https://www.referenseo.com/blog/10-banques-images-gratuites-libre-droits/)
