@@ -4,4 +4,4 @@
 - Compilation
 
 # Tutorial
-At the command prompt, type 'nano'
+At the command prompt, type `nano`
