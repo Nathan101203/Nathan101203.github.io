@@ -2,7 +2,7 @@
 ## Platform for parallel simulator
 
 - Originally developed by the CEA (since 2000);
-- Co-developed in partnership since 2007;
+- Co-developed in partnership with IFPEN since 2007;
 
 ## HPC plateform
 
