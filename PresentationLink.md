@@ -26,4 +26,5 @@
 - Linear and non-linear solvers (PETSc, Hypre,...);
 - VF discretization schemes;
 
-![Structure de l'application : ](Documents/photo description.png)
+
+![photo description](https://user-images.githubusercontent.com/108274354/176191111-68a801db-033e-4a63-8665-ada929d27960.png)
