@@ -1,7 +1,7 @@
 # Quickstart guide
-- [Download](https://www.ifpenergiesnouvelles.fr/)
-- Configuration
+- Download
 - Compilation
+- [Quick presentation of the Arcane plateform](https://Nathan101203.github.io)
 
 # Tutorial
 At the command prompt, type `nano`
