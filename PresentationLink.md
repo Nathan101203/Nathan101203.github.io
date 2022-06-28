@@ -20,7 +20,7 @@
 
 - Scheduling of the application
 
-# NE PAS OUBLIER DE CENTRALISER
+# NE PAS OUBLIER DE CENTRER
 
 ![image](https://user-images.githubusercontent.com/108274354/176191561-3e65f7a2-5a76-4a00-a47d-de3909b3d763.png)
 
