@@ -4,3 +4,5 @@
 - Compilation
 
 # Tutorial
+- Marvel at its beauty
+    ![Tux, the Linux mascot](/evrardn/Documents/image-attractive-960x540.jpg)
