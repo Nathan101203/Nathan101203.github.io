@@ -18,3 +18,6 @@ At the command ==prompt== , <mark>type</mark> `nano`
 H~~2~~O  
 2^2^  
 :tent: :joy:  
+- [x] faire la vaisselle
+- [x] aller manger
+- [ ] faire la sieste
