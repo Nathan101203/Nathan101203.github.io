@@ -37,3 +37,4 @@
 - Linear and non-linear solvers (PETSc, Hypre,...);
 - VF discretization schemes;
 - [color=#26B260]texte coloré en vert[/color]
+<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
