@@ -14,11 +14,13 @@
 # Tutorial
 At the command ==prompt== , <mark>type</mark> `nano`
 
-[^1] : This is the first footnote  
+[^1] : This is the [first][1] footnote  
 H~~2~~O  
 2^2^  
 :tent: :joy:  
 - [x] faire la vaisselle
 - [x] aller manger
 - [ ] faire la sieste  
-[Heading IDs](#Quickstart-guide)
+[Heading IDs](#Quickstart-guide)  
+[1] : https://Nathan101203.github.io/PresentationLink.html
+
