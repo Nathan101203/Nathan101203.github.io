@@ -11,7 +11,7 @@
 
 ## Object-oriented C++ platform
 
-- Modularity: notion of Arcane **module** ; 
+:- Modularity: notion of Arcane **module** ; :
 - Scalability: notion of Arcane **service**;
 - abstraction: language close to the numericist;
 - robustness;
