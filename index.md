@@ -21,4 +21,4 @@ H~~2~~O
 - [x] faire la vaisselle
 - [x] aller manger
 - [ ] faire la sieste  
-[Heading IDs](#heading-ids)
+[Heading IDs](#Quickstart guide)
