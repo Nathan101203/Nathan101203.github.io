@@ -1,4 +1,4 @@
-# Quickstart guide
+# Quickstart guide {#Quickstart-guide}
 - Download
 - Compilation
 - [Quick presentation of the Arcane plateform](https://Nathan101203.github.io/PresentationLink.html)
@@ -21,4 +21,4 @@ H~~2~~O
 - [x] faire la vaisselle
 - [x] aller manger
 - [ ] faire la sieste  
-[Heading IDs](#Quickstart guide)
+[Heading IDs](#Quickstart-guide)
