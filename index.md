@@ -22,5 +22,5 @@ H~~2~~O
 - [x] aller manger
 - [ ] faire la sieste  
 [Heading IDs](#Quickstart-guide)  
-[1] : https://Nathan101203.github.io/PresentationLink.html(test)
+[1]: https://Nathan101203.github.io/PresentationLink.html(test)
 
