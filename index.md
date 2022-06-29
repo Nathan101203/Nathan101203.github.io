@@ -13,4 +13,5 @@
 
 # Tutorial
 At the command prompt, type `nano`
+------------------------------------------------------------------------:
 [^1] : This is the first footnote
