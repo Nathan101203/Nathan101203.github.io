@@ -12,6 +12,6 @@
 ```
 
 # Tutorial
-At the command prompt, ==type== `nano`
-------------------------------------------------------------------------:
+At the command prompt, <mark>type</mark> `nano`
+
 [^1] : This is the first footnote
