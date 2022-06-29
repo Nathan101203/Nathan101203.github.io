@@ -3,7 +3,7 @@
 - Compilation
 - [Quick presentation of the Arcane plateform](https://Nathan101203.github.io/PresentationLink.html)
 - Training
-- this is the first footnote [^1]
+- this is the first footnote, [^1]
 
 ```Markdown
 
