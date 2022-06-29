@@ -11,7 +11,7 @@
 
 ## Object-oriented C++ platform
 
-[center]- Modularity: notion of Arcane **module** ; [/center]
+- Modularity: notion of Arcane **module** ; 
 - Scalability: notion of Arcane **service**;
 - abstraction: language close to the numericist;
 - robustness;
@@ -22,7 +22,7 @@
 
 # NE PAS OUBLIER DE CENTRER
 
-[center]![image](https://user-images.githubusercontent.com/108274354/176191561-3e65f7a2-5a76-4a00-a47d-de3909b3d763.png)[/center]
+![image](https://user-images.githubusercontent.com/108274354/176191561-3e65f7a2-5a76-4a00-a47d-de3909b3d763.png)
 
 ## Arcane provides "low-level" services
 
@@ -36,5 +36,3 @@
 - Geometric calculations;
 - Linear and non-linear solvers (PETSc, Hypre,...);
 - VF discretization schemes;
-- [color=#26B260]texte coloré en vert[/color]
-<p>Some Markdown text with <span style="color:blue">some <em>blue</em> text</span>.</p>
