@@ -3,7 +3,6 @@
 - Compilation
 - [Quick presentation of the Arcane plateform](https://Nathan101203.github.io/PresentationLink.html)
 - Training
-- this is the first footnote, [^1]<!-- tyexte en commentaire -->
 
 ```Markdown
 
@@ -12,9 +11,9 @@
 ```
 
 # Tutorial
-At the command ==prompt== , <mark>type</mark> `nano`
+At the command prompt , type `nano`
 
-[^1] : This is the [first][1] footnote  
+
 H~~2~~O  
 2^2^  
 :tent: :joy:  
@@ -22,5 +21,5 @@ H~~2~~O
 - [x] aller manger
 - [ ] faire la sieste  
 [Heading IDs](#Quickstart-guide)  
-[1]: https://Nathan101203.github.io/PresentationLink.html (test)
+
 
