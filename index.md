@@ -1,13 +1,12 @@
 # Quickstart guide  {#Quickstart-guide}
 - Download
 - Compilation
-- [Quick presentation of the Arcane plateform](https://Nathan101203.github.io/PresentationLink.html)
+- [Quick presentation of the Arcane plateform]
 - Training
 - [Accès page de présentation Alien](https://Nathan101203.github.io/alien.html)
 
 ```Markdown
 
-[Quick presentation of the Arcane plateform](https://Nathan101203.github.io/PresentationLink.html)
 
 ```
 
